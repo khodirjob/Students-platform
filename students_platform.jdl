@@ -1,0 +1,89 @@
+
+entity Book {
+	name String,
+    description String
+}
+
+entity Authors {
+	fullName String,
+    birthDay Instant,
+    dedDay Instant
+}
+
+entity Category{
+	name String,
+    description String
+}
+
+entity Vacancy{ // bo'sh ish o'rinlari
+	companyName String,
+    jobType String,
+    description String,
+    vacancyCount Integer,
+    location String,
+    phone String,
+    salary Double
+}
+
+entity Cafe{
+    description String,
+    name String,
+    location String,
+    openingTime Instant,
+    closeTime Instant
+}
+
+entity Attachment{
+	name String,
+    fileOriginalName String,
+    attachSize Long,
+    contentType String,
+    attachmentType  AttachmentType required,
+    objectId Long
+
+}
+
+enum AttachmentType{
+	FOOD, CAFE, ROOM, BOOK, SCHEDULE
+}
+
+entity Food{
+	name String,
+    description String,
+    price Double
+}
+
+entity Room{ // institut xududida joylashgan xonalar
+	name String,
+    description String,
+    building String // institutdagi xonalar soni
+}
+
+entity Apartment{ // kvartira
+	location String,
+    phone String,
+    description String,
+    price Double,
+    requirements String, // kvartira egasining talablari
+    roomFit Integer // xonaga qo'yilishi mumkin bo'lgan odamlar soni
+}
+
+entity Schedule{
+	faculty String,
+    level Integer,
+    description String
+}
+
+relationship ManyToMany {
+	Book{authors(fullName)} to Authors{book}
+}
+
+relationship ManyToOne {
+	Book{category} to Category
+}
+
+filter *
+dto * with mapstruct
+service * with serviceClass
+paginate * with pagination
+

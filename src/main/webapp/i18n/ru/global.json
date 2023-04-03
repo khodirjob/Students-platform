@@ -7,6 +7,16 @@
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Сущности",
+        "book": "Book",
+        "authors": "Authors",
+        "category": "Category",
+        "vacancy": "Vacancy",
+        "cafe": "Cafe",
+        "attachment": "Attachment",
+        "food": "Food",
+        "room": "Room",
+        "apartment": "Apartment",
+        "schedule": "Schedule",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
