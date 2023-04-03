@@ -1,0 +1,28 @@
+{
+  "studentsPlatformApp": {
+    "cafe": {
+      "home": {
+        "title": "Cafes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Cafe",
+        "createOrEditLabel": "Create or edit a Cafe",
+        "notFound": "No Cafes found"
+      },
+      "created": "A new Cafe is created with identifier {{ param }}",
+      "updated": "A Cafe is updated with identifier {{ param }}",
+      "deleted": "A Cafe is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Cafe {{ id }}?"
+      },
+      "detail": {
+        "title": "Cafe"
+      },
+      "id": "ID",
+      "description": "Description",
+      "name": "Name",
+      "location": "Location",
+      "openingTime": "Opening Time",
+      "closeTime": "Close Time"
+    }
+  }
+}

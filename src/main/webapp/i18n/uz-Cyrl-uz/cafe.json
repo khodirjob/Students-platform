@@ -1,0 +1,28 @@
+{
+  "studentsPlatformApp": {
+    "cafe": {
+      "home": {
+        "title": "Cafes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Cafe қўшиш",
+        "createOrEditLabel": "Cafeни таҳрирлаш",
+        "notFound": "No Cafes found"
+      },
+      "created": "Cafe {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Cafe сақланди.",
+      "deleted": "{{ param }}- Cafe ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Cafeни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Cafe"
+      },
+      "id": "ID",
+      "description": "Description",
+      "name": "Name",
+      "location": "Location",
+      "openingTime": "Opening Time",
+      "closeTime": "Close Time"
+    }
+  }
+}

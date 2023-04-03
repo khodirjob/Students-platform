@@ -1,0 +1,30 @@
+{
+  "studentsPlatformApp": {
+    "vacancy": {
+      "home": {
+        "title": "Vacancies",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Yangi Vacancy qo`shish",
+        "createOrEditLabel": "Vacancyni tahrirlash",
+        "notFound": "No Vacancies found"
+      },
+      "created": "Vacancy {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Vacancy saqlandi",
+      "deleted": "{{ param }}- Vacancy o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Vacancyni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Vacancy"
+      },
+      "id": "ID",
+      "companyName": "Company Name",
+      "jobType": "Job Type",
+      "description": "Description",
+      "vacancyCount": "Vacancy Count",
+      "location": "Location",
+      "phone": "Phone",
+      "salary": "Salary"
+    }
+  }
+}

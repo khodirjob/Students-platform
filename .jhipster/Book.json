@@ -1,0 +1,38 @@
+{
+  "applications": "*",
+  "changelogDate": "20230320091310",
+  "dto": "mapstruct",
+  "embedded": false,
+  "entityTableName": "book",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "description",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": true,
+  "name": "Book",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityName": "category",
+      "relationshipName": "category",
+      "relationshipType": "many-to-one"
+    },
+    {
+      "otherEntityField": "fullName",
+      "otherEntityName": "authors",
+      "otherEntityRelationshipName": "book",
+      "ownerSide": true,
+      "relationshipName": "authors",
+      "relationshipType": "many-to-many"
+    }
+  ],
+  "service": "serviceClass"
+}

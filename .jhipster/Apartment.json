@@ -1,0 +1,40 @@
+{
+  "applications": "*",
+  "changelogDate": "20230320091318",
+  "dto": "mapstruct",
+  "embedded": false,
+  "entityTableName": "apartment",
+  "fields": [
+    {
+      "fieldName": "location",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "phone",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "description",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "price",
+      "fieldType": "Double"
+    },
+    {
+      "fieldName": "requirements",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "roomFit",
+      "fieldType": "Integer"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": true,
+  "name": "Apartment",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceClass"
+}

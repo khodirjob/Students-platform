@@ -1,0 +1,29 @@
+{
+  "studentsPlatformApp": {
+    "apartment": {
+      "home": {
+        "title": "Apartments",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Apartment қўшиш",
+        "createOrEditLabel": "Apartmentни таҳрирлаш",
+        "notFound": "No Apartments found"
+      },
+      "created": "Apartment {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Apartment сақланди.",
+      "deleted": "{{ param }}- Apartment ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Apartmentни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Apartment"
+      },
+      "id": "ID",
+      "location": "Location",
+      "phone": "Phone",
+      "description": "Description",
+      "price": "Price",
+      "requirements": "Requirements",
+      "roomFit": "Room Fit"
+    }
+  }
+}

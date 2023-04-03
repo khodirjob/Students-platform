@@ -1,0 +1,29 @@
+{
+  "studentsPlatformApp": {
+    "attachment": {
+      "home": {
+        "title": "Attachments",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Attachment қўшиш",
+        "createOrEditLabel": "Attachmentни таҳрирлаш",
+        "notFound": "No Attachments found"
+      },
+      "created": "Attachment {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Attachment сақланди.",
+      "deleted": "{{ param }}- Attachment ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Attachmentни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Attachment"
+      },
+      "id": "ID",
+      "name": "Name",
+      "fileOriginalName": "File Original Name",
+      "attachSize": "Attach Size",
+      "contentType": "Content Type",
+      "attachmentType": "Attachment Type",
+      "objectId": "Object Id"
+    }
+  }
+}

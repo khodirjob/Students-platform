@@ -1,0 +1,29 @@
+{
+  "studentsPlatformApp": {
+    "apartment": {
+      "home": {
+        "title": "Apartments",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Apartment",
+        "createOrEditLabel": "Создать или отредактировать Apartment",
+        "notFound": "Apartments не найдено"
+      },
+      "created": "Новый Apartment создан с идентификатором {{ param }}",
+      "updated": "Apartment обновлен с идентификатором {{ param }}",
+      "deleted": "Apartment удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Apartment {{ id }}?"
+      },
+      "detail": {
+        "title": "Apartment"
+      },
+      "id": "ID",
+      "location": "Location",
+      "phone": "Phone",
+      "description": "Description",
+      "price": "Price",
+      "requirements": "Requirements",
+      "roomFit": "Room Fit"
+    }
+  }
+}

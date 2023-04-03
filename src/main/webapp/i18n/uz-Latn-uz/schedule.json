@@ -1,0 +1,26 @@
+{
+  "studentsPlatformApp": {
+    "schedule": {
+      "home": {
+        "title": "Schedules",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Yangi Schedule qo`shish",
+        "createOrEditLabel": "Scheduleni tahrirlash",
+        "notFound": "No Schedules found"
+      },
+      "created": "Schedule {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Schedule saqlandi",
+      "deleted": "{{ param }}- Schedule o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Scheduleni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Schedule"
+      },
+      "id": "ID",
+      "faculty": "Faculty",
+      "level": "Level",
+      "description": "Description"
+    }
+  }
+}

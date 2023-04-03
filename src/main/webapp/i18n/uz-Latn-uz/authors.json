@@ -1,0 +1,27 @@
+{
+  "studentsPlatformApp": {
+    "authors": {
+      "home": {
+        "title": "Authors",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Yangi Authors qo`shish",
+        "createOrEditLabel": "Authorsni tahrirlash",
+        "notFound": "No Authors found"
+      },
+      "created": "Authors {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Authors saqlandi",
+      "deleted": "{{ param }}- Authors o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Authorsni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Authors"
+      },
+      "id": "ID",
+      "fullName": "Full Name",
+      "birthDay": "Birth Day",
+      "dedDay": "Ded Day",
+      "book": "Book"
+    }
+  }
+}

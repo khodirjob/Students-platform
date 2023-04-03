@@ -1,0 +1,12 @@
+{
+  "studentsPlatformApp": {
+    "AttachmentType": {
+      "null": "",
+      "FOOD": "FOOD",
+      "CAFE": "CAFE",
+      "ROOM": "ROOM",
+      "BOOK": "BOOK",
+      "SCHEDULE": "SCHEDULE"
+    }
+  }
+}

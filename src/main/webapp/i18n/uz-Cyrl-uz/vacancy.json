@@ -1,0 +1,30 @@
+{
+  "studentsPlatformApp": {
+    "vacancy": {
+      "home": {
+        "title": "Vacancies",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Vacancy қўшиш",
+        "createOrEditLabel": "Vacancyни таҳрирлаш",
+        "notFound": "No Vacancies found"
+      },
+      "created": "Vacancy {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Vacancy сақланди.",
+      "deleted": "{{ param }}- Vacancy ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Vacancyни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Vacancy"
+      },
+      "id": "ID",
+      "companyName": "Company Name",
+      "jobType": "Job Type",
+      "description": "Description",
+      "vacancyCount": "Vacancy Count",
+      "location": "Location",
+      "phone": "Phone",
+      "salary": "Salary"
+    }
+  }
+}

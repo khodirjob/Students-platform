@@ -1,0 +1,26 @@
+{
+  "studentsPlatformApp": {
+    "room": {
+      "home": {
+        "title": "Rooms",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Room",
+        "createOrEditLabel": "Создать или отредактировать Room",
+        "notFound": "Rooms не найдено"
+      },
+      "created": "Новый Room создан с идентификатором {{ param }}",
+      "updated": "Room обновлен с идентификатором {{ param }}",
+      "deleted": "Room удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Room {{ id }}?"
+      },
+      "detail": {
+        "title": "Room"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "building": "Building"
+    }
+  }
+}

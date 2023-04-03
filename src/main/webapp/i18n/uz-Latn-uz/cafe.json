@@ -1,0 +1,28 @@
+{
+  "studentsPlatformApp": {
+    "cafe": {
+      "home": {
+        "title": "Cafes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Yangi Cafe qo`shish",
+        "createOrEditLabel": "Cafeni tahrirlash",
+        "notFound": "No Cafes found"
+      },
+      "created": "Cafe {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Cafe saqlandi",
+      "deleted": "{{ param }}- Cafe o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Cafeni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Cafe"
+      },
+      "id": "ID",
+      "description": "Description",
+      "name": "Name",
+      "location": "Location",
+      "openingTime": "Opening Time",
+      "closeTime": "Close Time"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "studentsPlatformApp": {
+    "apartment": {
+      "home": {
+        "title": "Apartments",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Yangi Apartment qo`shish",
+        "createOrEditLabel": "Apartmentni tahrirlash",
+        "notFound": "No Apartments found"
+      },
+      "created": "Apartment {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Apartment saqlandi",
+      "deleted": "{{ param }}- Apartment o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Apartmentni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Apartment"
+      },
+      "id": "ID",
+      "location": "Location",
+      "phone": "Phone",
+      "description": "Description",
+      "price": "Price",
+      "requirements": "Requirements",
+      "roomFit": "Room Fit"
+    }
+  }
+}

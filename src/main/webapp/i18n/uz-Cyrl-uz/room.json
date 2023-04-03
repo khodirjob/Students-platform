@@ -1,0 +1,26 @@
+{
+  "studentsPlatformApp": {
+    "room": {
+      "home": {
+        "title": "Rooms",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Room қўшиш",
+        "createOrEditLabel": "Roomни таҳрирлаш",
+        "notFound": "No Rooms found"
+      },
+      "created": "Room {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Room сақланди.",
+      "deleted": "{{ param }}- Room ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Roomни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Room"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "building": "Building"
+    }
+  }
+}

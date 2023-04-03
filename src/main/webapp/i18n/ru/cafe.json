@@ -1,0 +1,28 @@
+{
+  "studentsPlatformApp": {
+    "cafe": {
+      "home": {
+        "title": "Cafes",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Cafe",
+        "createOrEditLabel": "Создать или отредактировать Cafe",
+        "notFound": "Cafes не найдено"
+      },
+      "created": "Новый Cafe создан с идентификатором {{ param }}",
+      "updated": "Cafe обновлен с идентификатором {{ param }}",
+      "deleted": "Cafe удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Cafe {{ id }}?"
+      },
+      "detail": {
+        "title": "Cafe"
+      },
+      "id": "ID",
+      "description": "Description",
+      "name": "Name",
+      "location": "Location",
+      "openingTime": "Opening Time",
+      "closeTime": "Close Time"
+    }
+  }
+}

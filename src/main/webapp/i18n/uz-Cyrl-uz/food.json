@@ -1,0 +1,26 @@
+{
+  "studentsPlatformApp": {
+    "food": {
+      "home": {
+        "title": "Foods",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Food қўшиш",
+        "createOrEditLabel": "Foodни таҳрирлаш",
+        "notFound": "No Foods found"
+      },
+      "created": "Food {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Food сақланди.",
+      "deleted": "{{ param }}- Food ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Foodни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Food"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "price": "Price"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "studentsPlatformApp": {
+    "apartment": {
+      "home": {
+        "title": "Apartments",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Apartment",
+        "createOrEditLabel": "Create or edit a Apartment",
+        "notFound": "No Apartments found"
+      },
+      "created": "A new Apartment is created with identifier {{ param }}",
+      "updated": "A Apartment is updated with identifier {{ param }}",
+      "deleted": "A Apartment is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Apartment {{ id }}?"
+      },
+      "detail": {
+        "title": "Apartment"
+      },
+      "id": "ID",
+      "location": "Location",
+      "phone": "Phone",
+      "description": "Description",
+      "price": "Price",
+      "requirements": "Requirements",
+      "roomFit": "Room Fit"
+    }
+  }
+}

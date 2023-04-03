@@ -1,0 +1,27 @@
+{
+  "studentsPlatformApp": {
+    "book": {
+      "home": {
+        "title": "Books",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Yangi Book qo`shish",
+        "createOrEditLabel": "Bookni tahrirlash",
+        "notFound": "No Books found"
+      },
+      "created": "Book {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Book saqlandi",
+      "deleted": "{{ param }}- Book o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Bookni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Book"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "category": "Category",
+      "authors": "Authors"
+    }
+  }
+}

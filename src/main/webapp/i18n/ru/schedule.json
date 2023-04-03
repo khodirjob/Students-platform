@@ -1,0 +1,26 @@
+{
+  "studentsPlatformApp": {
+    "schedule": {
+      "home": {
+        "title": "Schedules",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Schedule",
+        "createOrEditLabel": "Создать или отредактировать Schedule",
+        "notFound": "Schedules не найдено"
+      },
+      "created": "Новый Schedule создан с идентификатором {{ param }}",
+      "updated": "Schedule обновлен с идентификатором {{ param }}",
+      "deleted": "Schedule удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Schedule {{ id }}?"
+      },
+      "detail": {
+        "title": "Schedule"
+      },
+      "id": "ID",
+      "faculty": "Faculty",
+      "level": "Level",
+      "description": "Description"
+    }
+  }
+}

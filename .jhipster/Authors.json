@@ -1,0 +1,36 @@
+{
+  "applications": "*",
+  "changelogDate": "20230320091311",
+  "dto": "mapstruct",
+  "embedded": false,
+  "entityTableName": "authors",
+  "fields": [
+    {
+      "fieldName": "fullName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "birthDay",
+      "fieldType": "Instant"
+    },
+    {
+      "fieldName": "dedDay",
+      "fieldType": "Instant"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": true,
+  "name": "Authors",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityName": "book",
+      "otherEntityRelationshipName": "authors",
+      "ownerSide": false,
+      "relationshipName": "book",
+      "relationshipType": "many-to-many"
+    }
+  ],
+  "service": "serviceClass"
+}

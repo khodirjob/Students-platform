@@ -1,0 +1,26 @@
+{
+  "studentsPlatformApp": {
+    "food": {
+      "home": {
+        "title": "Foods",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Yangi Food qo`shish",
+        "createOrEditLabel": "Foodni tahrirlash",
+        "notFound": "No Foods found"
+      },
+      "created": "Food {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Food saqlandi",
+      "deleted": "{{ param }}- Food o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Foodni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Food"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "price": "Price"
+    }
+  }
+}

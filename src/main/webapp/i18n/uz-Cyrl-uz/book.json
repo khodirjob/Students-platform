@@ -1,0 +1,27 @@
+{
+  "studentsPlatformApp": {
+    "book": {
+      "home": {
+        "title": "Books",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Book қўшиш",
+        "createOrEditLabel": "Bookни таҳрирлаш",
+        "notFound": "No Books found"
+      },
+      "created": "Book {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Book сақланди.",
+      "deleted": "{{ param }}- Book ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Bookни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Book"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "category": "Category",
+      "authors": "Authors"
+    }
+  }
+}

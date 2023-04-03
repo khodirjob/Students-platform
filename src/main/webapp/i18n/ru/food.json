@@ -1,0 +1,26 @@
+{
+  "studentsPlatformApp": {
+    "food": {
+      "home": {
+        "title": "Foods",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Food",
+        "createOrEditLabel": "Создать или отредактировать Food",
+        "notFound": "Foods не найдено"
+      },
+      "created": "Новый Food создан с идентификатором {{ param }}",
+      "updated": "Food обновлен с идентификатором {{ param }}",
+      "deleted": "Food удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Food {{ id }}?"
+      },
+      "detail": {
+        "title": "Food"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "price": "Price"
+    }
+  }
+}

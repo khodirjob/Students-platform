@@ -1,0 +1,26 @@
+{
+  "studentsPlatformApp": {
+    "schedule": {
+      "home": {
+        "title": "Schedules",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Schedule қўшиш",
+        "createOrEditLabel": "Scheduleни таҳрирлаш",
+        "notFound": "No Schedules found"
+      },
+      "created": "Schedule {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Schedule сақланди.",
+      "deleted": "{{ param }}- Schedule ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Scheduleни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Schedule"
+      },
+      "id": "ID",
+      "faculty": "Faculty",
+      "level": "Level",
+      "description": "Description"
+    }
+  }
+}

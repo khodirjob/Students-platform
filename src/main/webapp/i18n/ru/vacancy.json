@@ -1,0 +1,30 @@
+{
+  "studentsPlatformApp": {
+    "vacancy": {
+      "home": {
+        "title": "Vacancies",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Vacancy",
+        "createOrEditLabel": "Создать или отредактировать Vacancy",
+        "notFound": "Vacancies не найдено"
+      },
+      "created": "Новый Vacancy создан с идентификатором {{ param }}",
+      "updated": "Vacancy обновлен с идентификатором {{ param }}",
+      "deleted": "Vacancy удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Vacancy {{ id }}?"
+      },
+      "detail": {
+        "title": "Vacancy"
+      },
+      "id": "ID",
+      "companyName": "Company Name",
+      "jobType": "Job Type",
+      "description": "Description",
+      "vacancyCount": "Vacancy Count",
+      "location": "Location",
+      "phone": "Phone",
+      "salary": "Salary"
+    }
+  }
+}

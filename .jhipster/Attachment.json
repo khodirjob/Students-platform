@@ -1,0 +1,42 @@
+{
+  "applications": "*",
+  "changelogDate": "20230320091315",
+  "dto": "mapstruct",
+  "embedded": false,
+  "entityTableName": "attachment",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "fileOriginalName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "attachSize",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "contentType",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "attachmentType",
+      "fieldType": "AttachmentType",
+      "fieldValidateRules": ["required"],
+      "fieldValues": "FOOD,CAFE,ROOM,BOOK,SCHEDULE"
+    },
+    {
+      "fieldName": "objectId",
+      "fieldType": "Long"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": true,
+  "name": "Attachment",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceClass"
+}

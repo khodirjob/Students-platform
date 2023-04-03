@@ -1,0 +1,29 @@
+{
+  "studentsPlatformApp": {
+    "attachment": {
+      "home": {
+        "title": "Attachments",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Attachment",
+        "createOrEditLabel": "Создать или отредактировать Attachment",
+        "notFound": "Attachments не найдено"
+      },
+      "created": "Новый Attachment создан с идентификатором {{ param }}",
+      "updated": "Attachment обновлен с идентификатором {{ param }}",
+      "deleted": "Attachment удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Attachment {{ id }}?"
+      },
+      "detail": {
+        "title": "Attachment"
+      },
+      "id": "ID",
+      "name": "Name",
+      "fileOriginalName": "File Original Name",
+      "attachSize": "Attach Size",
+      "contentType": "Content Type",
+      "attachmentType": "Attachment Type",
+      "objectId": "Object Id"
+    }
+  }
+}
