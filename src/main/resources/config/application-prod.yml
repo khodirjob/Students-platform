@@ -52,9 +52,9 @@ spring:
       # it can be set to any label, branch or commit of the configuration source Git repository
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
-    url: jdbc:postgresql://localhost:5432/students_platform
-    username: students_platform
-    password:
+    url: postgresql://postgres:BBeACSM7LEPSpUu0jNK1@containers-us-west-200.railway.app:5913/railway
+    username: postgres
+    password: BBeACSM7LEPSpUu0jNK1
     hikari:
       poolName: Hikari
       auto-commit: false
