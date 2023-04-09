@@ -1,5 +1,14 @@
 # students_platform
 
+```properties
+spring_profiles_active=prod
+PROD_DB_HOST=containers-us-west-200.railway.app
+PROD_DB_PORT=5913
+PROD_DB_NAME=railway
+PROD_DB_PASSWORD=BBeACSM7LEPSpUu0jNK1
+PROD_DB_USERNAME=postgres
+```
+
 This application was generated using JHipster 7.9.3, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.9.3](https://www.jhipster.tech/documentation-archive/v7.9.3).
 
 ## Project Structure
