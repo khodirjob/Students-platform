@@ -2,10 +2,10 @@
 
 ```properties
 spring_profiles_active=prod
-PROD_DB_HOST=containers-us-west-200.railway.app
-PROD_DB_PORT=5913
+PROD_DB_HOST=containers-us-west-76.railway.app
+PROD_DB_PORT=7147
 PROD_DB_NAME=railway
-PROD_DB_PASSWORD=BBeACSM7LEPSpUu0jNK1
+PROD_DB_PASSWORD=Xq1a8C2FFSN9ug0qB0jo
 PROD_DB_USERNAME=postgres
 ```
 
@@ -237,9 +237,9 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [leaflet]: https://leafletjs.com/
 [definitelytyped]: https://definitelytyped.org/
 
-#   S t u d e n t s - p l a t f o r m 
- 
- 
+#� �S�t�u�d�e�n�t�s�-�p�l�a�t�f�o�r�m�
+�
+�
 
 ```properties
 spring_profiles_active=prod
