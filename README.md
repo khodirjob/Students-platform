@@ -1,7 +1,7 @@
 # students_platform
 
 ```properties
-spring_profiles_active=prod
+spring_profiles_active=prodddd
 PROD_DB_HOST=containers-us-west-76.railway.app
 PROD_DB_PORT=7147
 PROD_DB_NAME=railway
